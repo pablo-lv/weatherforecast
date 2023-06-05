@@ -8,6 +8,10 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 twilio = "^8.2.1"
+requests = "^2.31.0"
+pandas = "^2.0.1"
+bs4 = "^0.0.1"
+tqdm = "^4.65.0"
 
 
 [build-system]
